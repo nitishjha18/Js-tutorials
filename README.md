@@ -1,1 +1,1 @@
-These are all my Java Script tutolials
+Js Tutolials
