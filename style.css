@@ -1,0 +1,27 @@
+/* h1{
+    background-color: olivedrab;
+}
+.heading-class{
+    color: black;
+
+}
+h2{
+    color: rgb(3, 3, 109);
+}
+body{
+    background-color:coral;
+}
+button{
+    background-color: rgba(0, 0, 255, 0.578);
+    color: darkgray;
+} */
+
+/* Practice question */
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+}
